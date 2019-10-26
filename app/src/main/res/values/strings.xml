@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Countdown Timer</string>
+    <string name="count_time">seconds remaining:</string>
+    <string name="done">done!</string>
 </resources>
